@@ -1,4 +1,4 @@
-package sumal;
+package Casestudy;
 
 
 	import java.util.Scanner;
