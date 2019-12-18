@@ -1,4 +1,4 @@
-package sumal;
+package casestudy;
 
 public class person1 {
 
